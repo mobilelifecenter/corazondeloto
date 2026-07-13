@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "0b016ba3"
+  },
+  "quarto.qmd": {
+    "quarto.html": "42b451b4"
+  },
+  "about.md": {
+    "about.html": "9afd3187"
+  },
+  "blog.qmd": {
+    "blog.html": "66b2c3f9"
+  },
+  "about.qmd": {
+    "about.html": "a0b01ad4"
+  },
+  "materiales.qmd": {
+    "materiales.html": "b3e85bb8"
+  },
+  "ceremonias.qmd": {
+    "ceremonias.html": "9333fcb0"
+  },
+  "cacao.qmd": {
+    "cacao.html": "73ef85c0"
+  }
+}

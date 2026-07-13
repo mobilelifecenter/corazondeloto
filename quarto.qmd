@@ -1,0 +1,26 @@
+yaml
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Website"
+  navbar:
+    logo: ""   # optional – you can add a logo path
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Ceremonias
+      - href: blog.qmd
+        text: Materiales
+      - href: blog.qmd
+        text: Cacao
+  page-footer:
+    center: "© 2026 Olivia Almanza and Salvador Ruiz"
+
+format:
+  html:
+    theme: cosmo          # Disable built‑in themes
+    css: styles.css      # Our custom stylesheet
+    toc: true

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "About",
+    "section": "",
+    "text": "Learn more about me and this project."
+  },
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "Corazón del Loto",
+    "section": "",
+    "text": "yaml project: type: website output-dir: docs\nwebsite: title: “My Website” navbar: logo: “” # optional – you can add a logo path left: - href: index.qmd text: Inicio - href: about.qmd text: Ceremonias - href: blog.qmd text: Materiales - href: blog.qmd text: Cacao page-footer: center: “© 2026 Olivia Almanza and Salvador Ruiz”\nformat: html: theme: cosmo # Disable built‑in themes css: styles.css # Our custom stylesheet toc: true"
+  },
+  {
+    "objectID": "cacao.html",
+    "href": "cacao.html",
+    "title": "Cacao",
+    "section": "",
+    "text": "El Cacao, Espíritu del Corazón\nEl cacao es mucho más que una bebida: es un maestro vegetal que abre el corazón y nos conecta con nuestra esencia.\nOrigen: Cultivado por las culturas mayas y aztecas, el cacao era considerado un regalo de los dioses.\nPropiedades: Rico en teobromina, magnesio y antioxidantes. Favorece la circulación, la alegría y la introspección.\nUso ceremonial: Se prepara con agua o leche vegetal, se endulza con miel o panela, y se sirve con intención y gratitud.\nEn nuestras ceremonias, trabajamos con cacao de comercio justo, cosechado de manera sostenible y con respeto por la tierra."
+  },
+  {
+    "objectID": "materiales.html",
+    "href": "materiales.html",
+    "title": "Materiales",
+    "section": "",
+    "text": "Materiales para la Ceremonia\nPara una ceremonia de cacao necesitamos:\n\nCacao ceremonial – de origen ancestral, tostado y molido a mano.\nJícara o tazón – recipiente para servir la bebida.\nBatiidor – utensilio de madera para espumar el cacao.\nIncienso o sahumerio – para limpiar el espacio.\nInstrumentos – sonajas, tambores, o cualquier elemento que invite a la música.\n\nCada material tiene su propósito y su energía. Te invitamos a preparar tu altar con respeto."
+  },
+  {
+    "objectID": "ceremonias.html",
+    "href": "ceremonias.html",
+    "title": "Ceremonias",
+    "section": "",
+    "text": "Ceremonias con Cacao\nLas ceremonias de cacao son encuentros sagrados donde compartimos la bebida de los dioses en un espacio de intención y conexión.\n\nCeremonia de apertura – Inicio del viaje interior.\nCeremonia de sanación – Trabajo con el corazón y las emociones.\nCeremonia de gratitud – Celebración y cierre.\n\nCada ceremonia se realiza en círculo, con cantos, meditación y la guía del cacao."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidos",
+    "section": "",
+    "text": "Este es el espacio donde compartimos conocimientos sobre el cacao ceremonial, las ceremonias ancestrales y los materiales sagrados que acompañan este camino.\nExplora las secciones para descubrir más sobre nuestras prácticas y comunidad."
+  }
+]

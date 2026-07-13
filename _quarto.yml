@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Corazón del Loto"
+  navbar:
+    logo: "images/logo.png"   # optional – remove or leave empty if you don't have one
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: ceremonias.qmd
+        text: Ceremonias
+      - href: materiales.qmd
+        text: Materiales
+      - href: cacao.qmd
+        text: Cacao
+  page-footer:
+    center: "© 2026 Olivia Almanza  y Salvador Ruiz"
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
