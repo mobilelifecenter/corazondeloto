@@ -50,6 +50,32 @@ body {
   margin: 0;
 }
 
+/* Responsive adjustments for small screens */
+@media (max-width: 600px) {
+  .navbar {
+    padding: 0.5rem 0.8rem;
+  }
+  .navbar-logo {
+    max-height: 30px;
+  }
+  .navbar-brand {
+    font-size: 1rem;
+  }
+  .navbar-nav {
+    gap: 0.8rem;
+  }
+  .nav-link {
+    font-size: 0.9rem;
+  }
+}
+
+/* Para pantallas muy pequeñas (menos de 400px), podrías ocultar el texto del título y dejar solo el logo */
+@media (max-width: 400px) {
+  .navbar-brand .navbar-title {
+    display: none; /* Oculta el título en móviles muy pequeños */
+  }
+}
+
 .nav-link {
   color: #1a1a1a;
   text-decoration: none;
