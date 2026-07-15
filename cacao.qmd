@@ -87,6 +87,11 @@ Si sientes la llamada del cacao, te animamos a preparar tu propia ceremonia en c
 
 ---
 
+<!-- Botón flotante fijo -->
+<a href="https://forms.gle/P6Cn2inD8nXNLa4dA" class="floating-btn" target="_blank">
+  Contáctanos
+</a>
+
 <div style="text-align: center; margin-top: 2rem;">
   <img src="images/tasa-cacao.png" alt="Taza de cacao ceremonial" style="max-width: 70%; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
   <p style="font-size: 0.9rem; color: #6c757d; margin-top: 0.5rem;">Una taza de cacao preparada con intención</p>

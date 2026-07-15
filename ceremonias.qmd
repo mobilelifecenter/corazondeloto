@@ -75,6 +75,7 @@ Antes de que un sueño comience a materializarse y crecer, nos reunimos para **i
 
 | Elemento | Descripción |
 | :--- | :--- |
+| **Espacio de sahumerio** | A ser llenado. |
 | **Cacao ceremonial** | Bebida sagrada que abre el corazón y facilita la conexión interior. |
 | **Flor de Loto** | Símbolo de pureza, transformación y luz; guía el espacio energético. |
 | **Música y cantos** | Sonidos que elevan la vibración y acompañan el viaje. |
@@ -97,6 +98,13 @@ Cada ceremonia es un **acto de amor y respeto** hacia quienes participan, hacia 
 ## 🌸 ¿Te gustaría vivir una ceremonia?
 
 Si sientes que alguna de estas ceremonias resuena contigo, o si deseas crear una experiencia personalizada, escríbenos. Estaremos encantados de acompañarte.
+
+</a>
+<!-- Botón flotante fijo -->
+<a href="https://forms.gle/P6Cn2inD8nXNLa4dA" class="floating-btn" target="_blank">
+  Contáctanos
+</a>
+
 
 ---
 

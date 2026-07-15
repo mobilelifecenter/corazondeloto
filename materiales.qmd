@@ -1,15 +1,9 @@
 ---
-title: "Materiales"
+title: "Agenda de Ceremonias"
 ---
 
-# Materiales para la Ceremonia
 
-Para una ceremonia de cacao necesitamos:
-
-- **Cacao ceremonial** – de origen ancestral, tostado y molido a mano.
-- **Jícara o tazón** – recipiente para servir la bebida.
-- **Batiidor** – utensilio de madera para espumar el cacao.
-- **Incienso o sahumerio** – para limpiar el espacio.
-- **Instrumentos** – sonajas, tambores, o cualquier elemento que invite a la música.
-
-Cada material tiene su propósito y su energía. Te invitamos a preparar tu altar con respeto.
+<!-- Botón flotante fijo -->
+<a href="https://forms.gle/P6Cn2inD8nXNLa4dA" class="floating-btn" target="_blank">
+  Contáctanos
+</a>

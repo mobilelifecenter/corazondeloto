@@ -117,3 +117,83 @@ h1, h2, h3 {
   font-size: 0.9rem;
   color: #6c757d;
 }
+
+/* ========================================
+   NAVBAR BUTTON STYLING
+   Color: #900323 (Deep Wine Red)
+   ======================================== */
+
+/* Base button style */
+li.nav-item span.btn-navbar {
+  background-color: #900323;
+  color: #FFFFFF;
+  padding: 6px 18px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+/* Hover effect */
+li.nav-item span.btn-navbar:hover {
+  background-color: #6B001A;  /* Darker shade for hover */
+  color: #FFFFFF;
+  transform: scale(1.02);
+}
+
+/* Active/click effect */
+li.nav-item span.btn-navbar:active {
+  transform: scale(0.98);
+}
+
+/* Fix vertical alignment in navbar */
+li.nav-item span.btn-navbar {
+  position: relative;
+  top: -0.375rem;
+}
+
+/* Optional: Add a subtle glow */
+li.nav-item span.btn-navbar:hover {
+  box-shadow: 0 0 15px rgba(144, 3, 35, 0.4);
+}
+
+/* ========================================
+   BOTÓN FLOTANTE SIEMPRE VISIBLE
+   Color: #900323
+   ======================================== */
+
+.floating-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #900323;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(144, 3, 35, 0.4);
+  z-index: 9999;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  display: inline-block;
+}
+
+.floating-btn:hover {
+  background-color: #6B001A;
+  color: white;
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(144, 3, 35, 0.6);
+}
+
+/* Para móviles (más pequeño) */
+@media (max-width: 768px) {
+  .floating-btn {
+    padding: 12px 20px;
+    font-size: 0.85rem;
+    bottom: 20px;
+    right: 20px;
+  }
+}

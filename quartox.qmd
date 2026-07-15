@@ -13,9 +13,9 @@ website:
       - href: about.qmd
         text: Ceremonias
       - href: blog.qmd
-        text: Materiales
+        text: Cacao        
       - href: blog.qmd
-        text: Cacao
+        text: Materiales
   page-footer:
     center: "© 2026 Olivia Almanza and Salvador Ruiz"
 

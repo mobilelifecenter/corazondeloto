@@ -37,9 +37,14 @@ A veces, cuando queremos conectar con nuestro interior:
 
 ### Te invitamos a compartir con nosotros
 
->Este espacio está aquí para acompañarte en ese viaje de vuelta a ti mismo, con la certeza de que la sabiduría ya habita en tu interior.
+>Este espacio está aquí para acompañarte en ese viaje de vuelta a ti mismo, con la certeza de que la sabiduría ya habita en tu interior. <!-- Botón flotante fijo -->
+<a href="https://forms.gle/P6Cn2inD8nXNLa4dA" class="floating-btn" target="_blank">
+  Contáctanos
+</a>
 
 ---
 
 ![](images/corazon de loto nagpas.png)
+
+
 
