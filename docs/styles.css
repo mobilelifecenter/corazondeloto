@@ -197,3 +197,19 @@ li.nav-item span.btn-navbar:hover {
     right: 20px;
   }
 }
+
+/* Color personalizado Corazón del Loto */
+.texto-loto {
+  color: #900323;
+}
+
+/* En styles.css */
+a {
+  color: #900323;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6B001A;  /* Versión más oscura para hover */
+  text-decoration: underline;
+}

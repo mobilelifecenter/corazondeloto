@@ -1,5 +1,6 @@
 ---
 title: "Agenda de Ceremonias"
+toc: false
 ---
 
 
@@ -7,3 +8,16 @@ title: "Agenda de Ceremonias"
 <a href="https://forms.gle/P6Cn2inD8nXNLa4dA" class="floating-btn" target="_blank">
   Contáctanos
 </a>
+
+---
+title: "Agenda de Ceremonias Públicas"
+---
+
+## Próximas Ceremonias
+
+| Ceremonia | Fecha | Registro |
+|-----------|-------|----------|
+| Ceremonia de Cacao | 15 de agosto, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
+| Meditación Guiada | 22 de septiembre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
+| Ceremonia de Sonidos | 29 de septiembre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
+| Sanación con Cacao | 5 de octubre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
