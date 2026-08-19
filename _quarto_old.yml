@@ -7,9 +7,14 @@ website:
   navbar:
     logo: "images/logo.png"   # optional – remove or leave empty if you don't have one
     left:
-     
+      - href: index.qmd
+        text: ¿Quiénes somos?
+      - href: ceremonias.qmd
+        text: Ceremonias 
+      - href: cacao.qmd
+        text: Cacao        
       - href: materiales.qmd
-        text: Próximas Ceremonias
+        text: Agenda
     page-footer:
     center: "© 2026 Olivia Almanza  y Salvador Ruiz"
 

@@ -15,9 +15,6 @@ title: "Agenda de Ceremonias Públicas"
 
 ## Próximas Ceremonias
 
-| Ceremonia | Fecha | Registro |
-|-----------|-------|----------|
-| Ceremonia de Cacao | 15 de agosto, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
-| Meditación Guiada | 22 de septiembre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
-| Ceremonia de Sonidos | 29 de septiembre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
-| Sanación con Cacao | 5 de octubre, 2026 | [Inscribirse](https://forms.gle/WKRrR8AcRC9q3x4L7) |
+| Ceremonia | Fecha | Lugar | Registro |
+|-----------|-------|----------|----------|
+| Ceremonia de Cacao | 5 de septiembre, 2026 | Irapuato | [Inscribete](https://forms.gle/WKRrR8AcRC9q3x4L7) |
