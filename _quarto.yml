@@ -6,8 +6,9 @@ website:
   title: "Corazón del Loto"
   navbar:
     logo: "images/logo.png"   # optional – remove or leave empty if you don't have one
-    left:
-     
+    left:     
+      - href: ceremonias.qmd
+        text: Nuestras Ceremonias 
       - href: materiales.qmd
         text: Próximas Ceremonias
     page-footer:
