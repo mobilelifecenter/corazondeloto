@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Corazón del Loto"
+  favicon: "images/logo.png"  
   navbar:
     logo: "images/logo.png"   # optional – remove or leave empty if you don't have one
     left:     
@@ -11,9 +12,12 @@ website:
         text: Nuestras Ceremonias 
       - href: materiales.qmd
         text: Próximas Ceremonias
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61593382717072
+      - icon: instagram
+        href: https://www.facebook.com/profile.php?id=61593382717072  
     page-footer:
     center: "© 2026 Olivia Almanza  y Salvador Ruiz"
-
 format:
   html:
     theme: simplex
